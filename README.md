@@ -1,7 +1,7 @@
 # AI_Class
 
-#Chapter 1
-#Artificial Intelligence
+<h1>Chapter 1</h1>
+<h2>Artificial Intelligence</h2>
 
 Intelligence can be defined as an ability to perceive an information and to gain knowledge from it and to apply it within an environment. 
 Artificial intelligence is a field of data science which gives more emphasis on providing intelligence to a system and make it behave more like a human being. The field of AI is based on many principles such as:
